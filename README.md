@@ -23,7 +23,7 @@ https://www.wolframalpha.com/input/?i=DiscretePlot%5BTable%5BX~Binomial(j,+0.01)
   <li>Put your cursor in the top left of the graph and press the key w</li>
   <li>Put your curson in the bottom right of the graph and press the key s</li>
   <li>Now it should automatically show you the x value and the % at that x,y point.</li> 
-  <li>If you change the query to something other than 500 make sure to use the width adjustment text field<li>
-  <li>If you submit a new query you will have to resync the tool by pressing the button to do so.<li>
+  <li>If you change the query to something other than 500 make sure to use the width adjustment text field</li>
+  <li>If you submit a new query you will have to resync the tool by pressing the button to do so.</li>
  </ol>
 
