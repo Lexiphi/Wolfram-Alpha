@@ -27,4 +27,6 @@ https://www.wolframalpha.com/input/?i=DiscretePlot%5BTable%5BX~Binomial(j,+0.01)
   <li>If you change the query to something other than 500 make sure to use the width adjustment text field</li>
   <li>If you submit a new query you will have to resync the tool by pressing the button to do so.</li>
  </ol>
+ 
+ <img src="https://github.com/Lexiphi/Wolfram-Alpha/blob/master/Screen%20Shot%202019-03-27%20at%208.06.44%20PM.png?raw=true" alt='example of script in action' />
 
