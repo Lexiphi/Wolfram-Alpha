@@ -20,6 +20,7 @@ Basic instructions (until I have time to write them out in more detail)
   <li>Copy the entire script and save it as a bookmark. </li>
   <li>Now, go to 
 https://www.wolframalpha.com/input/?i=DiscretePlot%5BTable%5BX~Binomial(j,+0.01),+P(X%3E%3Db),+%7Bb,+1,+5%7D%5D,+%7Bj,+1,+500%7D%5D </li>
+  <li>Click the bookmark, which will run the script. (If you don't see your bookmark toolbar, find the bookmark manually)</li>
   <li>Put your cursor in the top left of the graph and press the key w</li>
   <li>Put your cursor in the bottom right of the graph and press the key s</li>
   <li>Now it should automatically show you the x value and the % at that x,y point.</li> 
